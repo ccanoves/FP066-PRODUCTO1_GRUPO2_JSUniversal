@@ -1,0 +1,210 @@
+.margen-top-sm {
+  margin-top: 10px;
+}
+
+.margen-top-lg {
+  margin-top: 30px;
+}
+
+.margem-bottom-xl {
+  margin-bottom: 50px;
+}
+
+.padding-sm {
+  padding: 10px;
+}
+
+.padding-md {
+  margin-top: 50px;
+}
+
+#semester-list {
+  display: flex;
+}
+
+.colorfondo-rojo {
+  background-color: #e96767;
+}
+
+.colorfondo-naranja {
+  background-color: #f18e4c;
+}
+
+.colorfondo-mostaza {
+  background-color: #ffdc60;
+}
+
+.colorfondo-verde {
+  background-color: #8bff8b;
+}
+
+.colorfondo-turquesa {
+  background-color: #9afafa;
+}
+
+.colorfondo-azul {
+  background-color: #8cddf8;
+}
+
+.colorfondo-lila {
+  background-color: #c8adeb;
+}
+
+.colorfondo-rosa {
+  background-color: #ffb6c1;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card-title {
+  padding: 10px;
+}
+
+.card-text {
+  text-align: left;
+  min-height: 120px;
+  font-size: 12px;
+}
+
+.h5 {
+  padding: 0;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+}
+
+.bi-list {
+  font-size: 2em;
+}
+
+.nav-item .dropdow {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.nav-item.dropdow .dropdown-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+}
+
+#eliminar {
+  margin-left: 50px;
+}
+
+#añadir {
+  color: #000;
+  background-color: #e2e0e0;
+  border: 2px solid #fff;
+}
+
+#añadir-semestre {
+  color: #000;
+  background-color: #37ff9b;
+  border: 2px solid #fff;
+}
+
+.text-right {
+  text-align: right;
+}
+
+body {
+  text-align: center;
+  background-color: #c0d8f0;
+  padding: 20px;
+}
+
+.modal-header {
+  background-color: #80808065;
+}
+
+.modal-title {
+  color: #000;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#exampleFormControlTextarea1 {
+  height: 4em;
+}
+
+.form-range {
+  position: relative;
+}
+
+.range-labels {
+  text-align: center;
+  color: #000;
+  width: 100%;
+  font-weight: bold;
+  position: absolute;
+  top: -25px;
+  left: 0;
+}
+
+.current-value {
+  font-weight: bold;
+  position: absolute;
+  top: -45px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.range-labels {
+  justify-content: space-between;
+  margin-top: -10px;
+  display: flex;
+}
+
+.range-labels span {
+  font-weight: bold;
+}
+
+.modal-footer button {
+  margin: 0 auto;
+  display: block;
+}
+
+.corner-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.btn-g-wider {
+  width: 120px;
+}
+
+.btn-g {
+  color: #fff;
+  background-color: green;
+  width: 150px;
+  height: 50px;
+}
+
+.matematicas-card {
+  justify-content: left;
+  align-items: right;
+  flex-direction: column;
+  width: 70%;
+  height: 70%;
+  display: flex;
+}
+
+.column {
+  background-color: #fff;
+  border-radius: 15px;
+  width: 100%;
+  min-height: 500px;
+  margin: 30px 10px 0;
+  padding: 20px;
+  position: relative;
+}
+
+/*# sourceMappingURL=index.c8387fe7.css.map */
